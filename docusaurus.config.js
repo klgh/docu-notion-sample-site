@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  organizationName: "sillsdev", // Usually your GitHub org/user name.
+  organizationName: "klgh", // Usually your GitHub org/user name.
   projectName: "docu-notion-sample-site", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
